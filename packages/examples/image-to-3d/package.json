@@ -1,0 +1,12 @@
+{
+  "name": "jscad-image-to-3d",
+  "version": "1.0.0",
+  "description": "Convert images to JSCAD 3D models",
+  "main": "image-processor.js",
+  "scripts": {
+    "process": "node image-processor.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0"
+  }
+}
